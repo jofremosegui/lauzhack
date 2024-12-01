@@ -17,7 +17,10 @@ Comparing 1.4 million entities directly is computationally prohibitive, leading 
 3. Resolving entities within clusters based on similarity measures.
 
 
+###### Workflow
 
+<img width="678" alt="Screenshot 2024-12-01 at 11 55 57" src="https://github.com/user-attachments/assets/94561713-2c29-4121-abf4-70b14edfb84c">
+<img width="535" alt="Screenshot 2024-12-01 at 11 56 07" src="https://github.com/user-attachments/assets/a4b237a5-1b69-4007-a1d4-a99f5f1d86b1">
 
 
 
