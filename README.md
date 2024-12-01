@@ -7,13 +7,13 @@
 This project focuses on resolving external counterparties efficiently by combining clustering, embeddings, and similarity-based classification. Instead of comparing all entities exhaustively, we use clustering and embedding-based techniques to narrow down potential matches, significantly improving computational efficiency and scalability.
 </div>
 
-#### Team Members
+###### Team Members
 - Daniela Álvarez
 - Elena Alegret
 - Jofre Moseguí
 - Andrea Quiroz
 
-## The Challenge
+###### The Challenge
 Comparing 1.4 million entities directly is computationally prohibitive, leading to billions of pairwise comparisons. Our approach minimizes this complexity by:
 1. Pre-clustering entities into ~1400 groups using K-Means.
 2. Embedding new entries to find their nearest cluster centroid.
