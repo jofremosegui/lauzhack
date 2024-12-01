@@ -3,7 +3,7 @@
 <h1 align="center">UBS Efficient Entity Resolution: Clustering and Embedding-Based Matching</h1>
 
 <h6 align="center">
-Daniela Álvarez, Elena Alegret, Jofre Moseguí and Andrea Quiroz
+Daniela Álvarez, Elena Alegret, Jofre Moseguí, Andrea Quiroz
 </h6>
 
 <div style="text-align: justify;">
