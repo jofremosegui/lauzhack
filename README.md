@@ -19,8 +19,9 @@ Comparing 1.4 million entities directly is computationally prohibitive, leading 
 #### Workflow overview
 
 <p align="center">
-    <img width="550" alt="Screenshot 2024-12-01 at 11 55 57" src="https://github.com/user-attachments/assets/94561713-2c29-4121-abf4-70b14edfb84c">
-    <img width="450" alt="Screenshot 2024-12-01 at 11 56 07" src="https://github.com/user-attachments/assets/a4b237a5-1b69-4007-a1d4-a99f5f1d86b1">
+    <img width="550" alt="Screenshot 2024-12-01 at 12 00 05" src="https://github.com/user-attachments/assets/cde4b524-aee1-49ff-8bea-742b4dc2d4af">
+    <img width="450" alt="Screenshot 2024-12-01 at 12 00 32" src="https://github.com/user-attachments/assets/d09b16d5-c4b9-4c93-b984-dbabd7c37977">
+
 </p>
 
 <p align="center">
